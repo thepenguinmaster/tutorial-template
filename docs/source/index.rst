@@ -1,13 +1,10 @@
-Welcome to Lumache's documentation!
+Rob's documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is a basic guide on how to make a docs site that does not suck.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+ Step one.. Simply sign up for read the docs and branch the template repo.
+ Step two.. Have a coffee
 
 .. note::
 
